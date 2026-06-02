@@ -278,9 +278,7 @@ h3 {
 
 .author-highlight {
   color: var(--text);
-  text-decoration: underline;
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 4px;
+  font-weight: 800;
 }
 
 .author-note {
